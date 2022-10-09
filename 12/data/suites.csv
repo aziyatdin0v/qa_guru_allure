@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Oct 09 21:05:27 GMT 2022","Sun Oct 09 21:05:28 GMT 2022","1923","","qa.guru.allure.SelenideTest","","qa.guru.allure.SelenideTest","testIssueSearch","Тест selenide",""
+"passed","Sun Oct 09 21:05:24 GMT 2022","Sun Oct 09 21:05:27 GMT 2022","3001","","qa.guru.allure.LambdaStepTest","","qa.guru.allure.LambdaStepTest","testLambdaStep","Тест с lamda",""
+"passed","Sun Oct 09 21:05:15 GMT 2022","Sun Oct 09 21:05:23 GMT 2022","8691","","qa.guru.allure.LambdaStepTest","","qa.guru.allure.LambdaStepTest","testAnnotatedStep","Тест с аннотацией @Step",""
